@@ -17,5 +17,5 @@ Exploration of the market capitalization of Bitcoin and other cryptocurrencies.
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Notebook</b> (21H2)
+- <b>Jupyter Notebook</b> 
 
